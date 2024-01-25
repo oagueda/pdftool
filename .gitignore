@@ -1,0 +1,5 @@
+*
+!.gitignore
+!pdftool/*
+!setup.py
+!README.md
